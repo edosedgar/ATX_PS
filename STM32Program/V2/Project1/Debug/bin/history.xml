@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=Project1.map -O0 --gc-sections -LD:\Program_Files\CooCox\CoIDE\configuration\ProgramData\Project1 -TD:\Program_Files\CooCox\CoIDE\configuration\ProgramData\Project1/arm-gcc-link.ld -g">
+      <target file="Project1.elf" lastModified="142e3de42ec">
+         <source file="..\obj\stm32f10x_tim.o" lastModified="142e3de3c74"/>
+         <source file="..\obj\startup_stm32f10x_md_vl.o" lastModified="142e3de3ca3"/>
+         <source file="..\obj\core_cm3.o" lastModified="142e3de3ce1"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="142e3de3d30"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="142e3de3d9d"/>
+         <source file="..\obj\main.o" lastModified="142e3de3eb6"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="142e3de3f24"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="142e3de3f91"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="142e3de3ffe"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="142e3de404c"/>
+         <source file="..\obj\misc.o" lastModified="142e3de409b"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="142e3de40f8"/>
+      </target>
+   </processor>
+</history>

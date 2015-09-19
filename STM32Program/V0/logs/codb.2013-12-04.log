@@ -1,0 +1,101 @@
+14:42:34.170 [Worker-115] INFO  org.coocox.codb.common.log.ErrorLog - [D:/Program_Files/CooCox/CoIDE/bin\fossil.exe,clone,-A,admin,http://admin:1b8fdb@data.coocox.org:9090/cgi-bin/repo/46014ec2-5d9a-4f49-91b6-ddfc0d6025a2,D:/Program_Files/CooCox/CoIDE/repo\.rn\fossils\46014ec2-5d9a-4f49-91b6-ddfc0d6025a2.fossil] executed OK 
+Bytes      Cards  Artifacts     Deltas
+Sent:              53          1          0          0
+waiting for server...
+processed: 2%         
+processed: 10%         
+processed: 13%         
+processed: 42%         
+processed: 45%         
+processed: 47%         
+processed: 50%         
+processed: 77%         
+processed: 80%         
+processed: 93%         
+processed: 94%         
+processed: 98%         
+Received:        2045         13          5          0
+Sent:              58          2          0          0
+waiting for server...
+processed: 3%         
+Received:         634          2          0          0
+Total network traffic: 644 bytes sent, 2887 bytes received
+Rebuilding repository meta-data...
+  0.0% complete...
+  20.0% complete...
+  40.0% complete...
+  60.0% complete...
+  80.0% complete...
+  100.0% complete...
+project-id: e35583ce6b5960e2fdc95c92e1079518e97b18e6
+server-id:  83f5f40cfa7c9025a7a2b48d075856fec7386841
+admin-user: admin (password is "cae817")
+
+14:42:34.672 [Worker-115] INFO  org.coocox.codb.common.log.ErrorLog - [D:/Program_Files/CooCox/CoIDE/bin\fossil.exe,open,D:/Program_Files/CooCox/CoIDE/repo\.rn\fossils\46014ec2-5d9a-4f49-91b6-ddfc0d6025a2.fossil,-latest] executed OK 
+doc/description.html
+doc/docInfo.dat
+src/main.c
+project-name: <unnamed>
+repository:   D:/Program_Files/CooCox/CoIDE/repo\.rn\fossils\46014ec2-5d9a-4f49-91b6-ddfc0d6025a2.fossil
+local-root:   D:/Program_Files/CooCox/CoIDE/repo/Examples/941_Timer3Remap/
+user-home:    C:/Users/Edgar/AppData/Local
+project-code: e35583ce6b5960e2fdc95c92e1079518e97b18e6
+checkout:     9236076ebecea8a068c1a08c14711494ff2a4b12 2013-11-11 17:58:59 UTC
+parent:       125b0e6b38c46717894c88240cfb5125d7468027 2013-11-11 17:58:54 UTC
+tags:         trunk
+comment:      commit the example sourceCode (user: admin)
+
+14:42:34.697 [Worker-115] INFO  org.coocox.codb.common.log.ErrorLog - [D:/Program_Files/CooCox/CoIDE/bin\fossil.exe,close,-force] executed OK 
+
+
+14:42:37.746 [Worker-115] INFO  org.coocox.codb.common.log.ErrorLog - [D:/Program_Files/CooCox/CoIDE/bin\fossil.exe,clone,-A,admin,http://admin:7f3f3b@data.coocox.org:9090/cgi-bin/repo/f6ffe0f3-fb40-4fa3-bc03-df5b2b79b24e,D:/Program_Files/CooCox/CoIDE/repo\.rn\fossils\f6ffe0f3-fb40-4fa3-bc03-df5b2b79b24e.fossil] executed OK 
+Bytes      Cards  Artifacts     Deltas
+Sent:              53          1          0          0
+waiting for server...
+processed: 1%         
+processed: 6%         
+processed: 8%         
+processed: 13%         
+processed: 14%         
+processed: 16%         
+processed: 18%         
+processed: 85%         
+processed: 86%         
+processed: 95%         
+processed: 96%         
+processed: 99%         
+Received:        3245         13          5          0
+Sent:              58          2          0          0
+waiting for server...
+processed: 3%         
+Received:         634          2          0          0
+Total network traffic: 643 bytes sent, 4087 bytes received
+Rebuilding repository meta-data...
+  0.0% complete...
+  20.0% complete...
+  40.0% complete...
+  60.0% complete...
+  80.0% complete...
+  100.0% complete...
+project-id: 93402aa10261d4bf5a8bd035411782c117492f78
+server-id:  5082fe2a4587a406870eae0c39f06ef17b783d7d
+admin-user: admin (password is "68bbf0")
+
+14:42:38.226 [Worker-115] INFO  org.coocox.codb.common.log.ErrorLog - [D:/Program_Files/CooCox/CoIDE/bin\fossil.exe,open,D:/Program_Files/CooCox/CoIDE/repo\.rn\fossils\f6ffe0f3-fb40-4fa3-bc03-df5b2b79b24e.fossil,-latest] executed OK 
+doc/description.html
+doc/docInfo.dat
+src/example/TIM_PWMOutput.c
+project-name: <unnamed>
+repository:   D:/Program_Files/CooCox/CoIDE/repo\.rn\fossils\f6ffe0f3-fb40-4fa3-bc03-df5b2b79b24e.fossil
+local-root:   D:/Program_Files/CooCox/CoIDE/repo/Examples/981_TIM_PWMOutput/
+user-home:    C:/Users/Edgar/AppData/Local
+project-code: 93402aa10261d4bf5a8bd035411782c117492f78
+checkout:     694e5d2d22d1ad6e1b9c38e604f67d828d496eaa 2013-11-13 01:39:01 UTC
+parent:       19f98a74ce07fe895dc3fa815ceb589b87b9b82c 2013-11-13 01:37:12 UTC
+tags:         trunk
+comment:      commit the example sourceCode (user: admin)
+
+14:42:38.247 [Worker-115] INFO  org.coocox.codb.common.log.ErrorLog - [D:/Program_Files/CooCox/CoIDE/bin\fossil.exe,close,-force] executed OK 
+
+
+14:42:38.848 [Worker-115] INFO  org.coocox.codb.common.log.ProcessTimeLog - 47`456`freshExamplesByCompId`8608
